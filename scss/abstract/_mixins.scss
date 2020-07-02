@@ -1,0 +1,27 @@
+@mixin top-card { 
+    color: #ea7a90;
+    font-family: $font;
+    font-weight: $bold;
+    position: absolute;
+    top: 10%;
+}
+
+@mixin p-span { 
+    color: #97969d;
+    font-size: $font-m;
+}
+
+@mixin h5-card {
+    color: #ea7a90;
+    font-family: $font;
+    font-size: $font-m;
+    margin-bottom: 3px;
+    padding-top: 90px; 
+    text-transform: $text-uppercase;
+}
+
+@mixin p-span-card {    
+    font-family: $font;
+    font-size: $font-m;
+    font-weight: $bold;
+}

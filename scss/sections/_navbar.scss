@@ -1,0 +1,33 @@
+.navbar {
+    background: $navbar-background;
+    position: relative;
+    width: 30%;
+    img {
+        border-radius: 50%;
+        margin: 80px 50px;
+        width: 25%;
+    }
+    .title {
+        color: #f3f4f8;
+        font-family: $font;
+        font-size: $font-l;
+        left: 163px;
+        line-height: 10px;
+        position: absolute;
+        top: 95px;   
+    }
+    .nav {
+        list-style: none;
+        padding-top: 15px;
+    }  
+    li {
+        padding: 15px 45px;
+    }
+    .active {
+        color: #f3f4f8;
+    }
+    .footer-navbar {
+        padding-top: 210px;
+        padding-left: 85px;
+    }
+}

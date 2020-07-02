@@ -1,0 +1,33 @@
+@import './abstract/variables';
+@import './sections/navbar';
+@import './sections/cards';
+
+body {
+    background: $main-background;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    border-radius: 5px;
+    height: 870px;
+    margin: 15px auto;
+    overflow: hidden;
+    width: 90%;
+}
+
+a {
+    color: #d4dae6;
+    font-family: $font;
+    font-size: $font-m;
+    font-weight: $bold;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: $text-uppercase;
+}
+
+i {
+    color: #d4dae6;
+    font-size: 20px;
+    padding-right: 15px;
+}

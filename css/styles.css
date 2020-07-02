@@ -1,0 +1,18 @@
+.navbar{background:#ea7a90;position:relative;width:30%}.navbar
+img{border-radius:50%;margin:80px
+50px;width:25%}.navbar
+.title{color:#f3f4f8;font-family:"Nunito Sans",sans-serif;font-size:18px;left:163px;line-height:10px;position:absolute;top:95px}.navbar
+.nav{list-style:none;padding-top:15px}.navbar
+li{padding:15px
+45px}.navbar
+.active{color:#f3f4f8}.navbar .footer-navbar{padding-top:210px;padding-left:85px}.cards{background:#f3f4f8;box-sizing:border-box;padding:15% 50px;position:relative;width:70%}.cards.card-container{display:flex;flex-wrap:wrap}.cards .team-members{color:#ea7a90;font-family:"Nunito Sans",sans-serif;font-weight:bold;position:absolute;top:10%;left:65px}.cards .team-members p
+span{color:#97969d;font-size:13px}.cards
+.available{color:#ea7a90;font-family:"Nunito Sans",sans-serif;font-weight:bold;position:absolute;top:10%;right:65px}.cards .available p
+span{color:#97969d;font-size:13px;right:0;position:absolute}.cards
+.card{background-color:#fff;border-radius:5px;box-shadow:0 0 15px rgba(128, 128, 128, 0.3);height:300px;margin:12px;padding:0
+30px;position:relative;width:22%}.cards .card
+img{border-radius:50%;left:30px;position:absolute;top:13%;width:25%}.cards .card
+h5{color:#ea7a90;font-family:"Nunito Sans",sans-serif;font-size:13px;margin-bottom:3px;padding-top:90px;text-transform:uppercase}.cards .card
+span{font-family:"Nunito Sans",sans-serif;font-size:13px;font-weight:bold;color:#d4dae6}.cards .card
+p{font-family:"Nunito Sans",sans-serif;font-size:13px;font-weight:bold;color:#97969d;line-height:23px}body{background:#d4dae6;margin:0}.container{display:flex;border-radius:5px;height:870px;margin:15px
+auto;overflow:hidden;width:90%}a{color:#d4dae6;font-family:"Nunito Sans",sans-serif;font-size:13px;font-weight:bold;letter-spacing:2px;text-decoration:none;text-transform:uppercase}i{color:#d4dae6;font-size:20px;padding-right:15px}
